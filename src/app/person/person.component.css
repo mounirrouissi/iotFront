@@ -1,0 +1,20 @@
+.tr{
+height: 100;
+width: 50;
+background-color: red;
+}
+.td{
+  text-align: center;
+  height: 100;
+  width: 500px;
+  background-color: rgb(196, 196, 216);
+
+  }
+  .div{
+    background-color: azure;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: rgb(129, 117, 105);
+
+  }
+
